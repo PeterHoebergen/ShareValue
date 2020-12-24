@@ -1,0 +1,27 @@
+{
+  "id": "63b66945-a85b-4509-bb3c-f1028ad097ae",
+  "name": "Clockwise",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.35916.0",
+  "application": "14.0.35916.0",
+  "target": "Extension",
+  "showMyCode": true,
+  "runtime": "3.2",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50109
+    }
+  ]
+}

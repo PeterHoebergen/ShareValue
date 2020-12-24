@@ -1,0 +1,772 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="nl-NL" original="Clockwise">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2159243588 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Clockwise Connector Setup</source>
+          <target>Clockwise Connector Setup</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2159243588 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2159243588 - Field 2517242498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Base URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Setup - Field Base URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2159243588 - Field 2994142618 - Property 3830149458" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Setup - Field Username - Property caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2159243588 - Field 2575460289 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Password</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Setup - Field Password - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2159243588 - Field 1005181682 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hour Import Endpoint</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Setup - Field Hour Import Endpoint - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2159243588 - Field 572577090 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Project Endpoint</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Setup - Field Project Endpoint - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2159243588 - Field 1513319962 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Refresh Token</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Setup - Field Refresh Token - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2159243588 - Field 3046206593 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipt Token</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Setup - Field Receipt Token - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2159243588 - Field 1034426188 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Token Executed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Setup - Field Token Executed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2159243588 - Field 398579152 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Token Expired</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Setup - Field Token Expired - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2159243588 - Control 2517242498 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CWC Setup - Control Base URL - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2159243588 - Control 2994142618 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CWC Setup - Control Username - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2159243588 - Control 2575460289 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CWC Setup - Control Password - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2159243588 - Control 1503730921 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CWC Setup - Control Refreshed Token - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2159243588 - Control 3046206593 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CWC Setup - Control Receipt Token - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2159243588 - Control 1034426188 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CWC Setup - Control Token Executed - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2159243588 - Control 398579152 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CWC Setup - Control Token Expired - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2159243588 - Control 1005181682 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CWC Setup - Control Hour Import Endpoint - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2159243588 - Action 1730118293 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CWC Setup - Action Test Get Hours - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2159243588 - Action 1513319962 - Method 1377591017 - NamedType 2959106494" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New token received</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CWC Setup - Action Refresh Token - Method OnAction - NamedType Refresh_Token_Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 2159243588 - Action 1513319962 - Method 1377591017 - NamedType 1046016643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>current Token still valid</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CWC Setup - Action Refresh Token - Method OnAction - NamedType Refresh_Token_Text002</note>
+        </trans-unit>
+        <trans-unit id="Table 1721904245 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Clockwise Time Registration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Time Registration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1721904245 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Time Registration - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1721904245 - Field 2686962215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Time Registration - Field id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1721904245 - Field 895206272 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Time Registration - Field date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1721904245 - Field 1513204408 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>day</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Time Registration - Field day - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1721904245 - Field 2299627345 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>weeknumber</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Time Registration - Field weeknumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1721904245 - Field 2468692013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>hours</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Time Registration - Field hours - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1721904245 - Field 423410804 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>resource_id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Time Registration - Field resource_id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1721904245 - Field 4098004894 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>remark</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Time Registration - Field remark - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1721904245 - Field 909770915 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>resource_status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Time Registration - Field resource_status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1721904245 - Field 2398416733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>resource_parent_id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Time Registration - Field resource_parent_id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1721904245 - Field 3346493644 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>employee_id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Time Registration - Field employee_id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1721904245 - Field 3552134806 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>employee_name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Time Registration - Field employee_name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1721904245 - Field 2964732508 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>salary_number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Time Registration - Field salary_number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1721904245 - Field 833765472 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>department_id_path</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Time Registration - Field department_id_path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1721904245 - Field 2004915994 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>department_name_path</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Time Registration - Field department_name_path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1721904245 - Field 2142532544 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>department_code_path</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Time Registration - Field department_code_path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1721904245 - Field 1725592760 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>customer_id_path</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Time Registration - Field customer_id_path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1721904245 - Field 3792865634 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>customer_name_path</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Time Registration - Field customer_name_path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1721904245 - Field 2364506424 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>customer_code_path</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Time Registration - Field customer_code_path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1721904245 - Field 1227946031 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>project_id_path</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Time Registration - Field project_id_path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1721904245 - Field 4177660425 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>project_name_path</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Time Registration - Field project_name_path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1721904245 - Field 3280591343 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>project_code_path</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Time Registration - Field project_code_path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 590553178 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Clockwise connector Request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Request - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 590553178 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Request - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 590553178 - Field 1953297401 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RestMethod</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Request - Field RestMethod - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 590553178 - Field 3003898253 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Request - Field URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 590553178 - Field 467812692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Accept</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Request - Field Accept - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 590553178 - Field 3411229705 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ETag</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Request - Field ETag - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 590553178 - Field 3549826426 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UserName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Request - Field UserName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 590553178 - Field 2575460289 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Password</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Request - Field Password - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 590553178 - Field 4146460525 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Token</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Request - Field Token - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 590553178 - Field 3351914939 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Request - Field Request - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 590553178 - Field 2278520725 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Response</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Request - Field Response - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 590553178 - Field 2136712332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Succes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Request - Field Succes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 590553178 - Field 355226323 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>StatusCode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Request - Field StatusCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 590553178 - Field 3369789712 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reason</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CWC Request - Field Reason - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1028774139 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Log - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1028774139 - Field 1627640004 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Log - Field Entry Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1028774139 - Field 3017471043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Log - Field Table No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1028774139 - Field 2897660500 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Log - Field Record ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1028774139 - Field 3448402335 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OnEvent Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Log - Field OnEvent Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1028774139 - Field 3401991798 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Integration Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Log - Field Integration Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1028774139 - Field 2695595997 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Endpoint</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Log - Field Endpoint - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1028774139 - Field 2008555137 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request Action</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Log - Field Request Action - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1028774139 - Field 792988643 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>JSon Request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Log - Field JSon Request - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1028774139 - Field 3446287645 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>JSon Response</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Log - Field JSon Response - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1028774139 - Field 4058822266 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Response ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Log - Field Response ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1028774139 - Field 1438758551 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Log - Field Request Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1028774139 - Field 1476062623 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error Text</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Web Service Log - Field Error Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1028774139 - Action 4174539456 - Method 1377591017 - NamedType 496275363" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record sent already</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Web Service Log - Action Send - Method OnAction - NamedType TableEvent_Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 1028774139 - Action 2766326710 - Method 1377591017 - NamedType 3080275899" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is no data in blob of field %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Web Service Log - Action Show Request JSon - Method OnAction - NamedType Show_Request_JSon_Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 1028774139 - Action 2505001556 - Method 1377591017 - NamedType 769113541" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is no data in blob of field %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Web Service Log - Action Show Response JSon - Method OnAction - NamedType Show_Response_JSon_Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 1028774139 - Action 1053418638 - Method 1377591017 - NamedType 1195898931" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 records updated</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Web Service Log - Action Change Error to Pending - Method OnAction - NamedType ChangeErrortoPending_Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 1028774139 - Action 1053418638 - Method 1377591017 - NamedType 3108988782" size-unit="char" translate="yes" xml:space="preserve">
+          <source>System will update %1 from %2 into %3, continue?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Web Service Log - Action Change Error to Pending - Method OnAction - NamedType ChangeErrortoPending_Text002</note>
+        </trans-unit>
+        <trans-unit id="Table 483027328 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Period</source>
+          <target>Factuurperiode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Invoice Period - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 483027328 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Invoice Period - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 483027328 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Invoice Period - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 675641893 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EventLogSetup_bbs - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 675641893 - Field 1871325594 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enable Event Logging</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EventLogSetup_bbs - Field Enable Event Logging - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 675641893 - Field 1789703403 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Retention Period</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EventLogSetup_bbs - Field Retention Period - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 675641893 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Event Log Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EventLogSetup_bbs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3193316016 - Field 475789435 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EventID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EventLog_bbs - Field EventID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3193316016 - Field 4179440594 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EventStep</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EventLog_bbs - Field EventStep - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3193316016 - Field 2631464432 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EventDT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EventLog_bbs - Field EventDT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3193316016 - Field 2463040968 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EventType</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EventLog_bbs - Field EventType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3193316016 - Field 568116884 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ObjectID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EventLog_bbs - Field ObjectID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3193316016 - Field 1919608302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ObjectKey</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EventLog_bbs - Field ObjectKey - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3193316016 - Field 3767142723 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EventText</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EventLog_bbs - Field EventText - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3193316016 - Field 3135156104 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LogType</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EventLog_bbs - Field LogType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3193316016 - Field 185867267 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LogText</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EventLog_bbs - Field LogText - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3193316016 - Field 1066878235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LogErrorText</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EventLog_bbs - Field LogErrorText - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3193316016 - Field 3643948975 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LogContent</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EventLog_bbs - Field LogContent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3193316016 - Field 3837936093 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>HasContent</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EventLog_bbs - Field HasContent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1082305923 - Method 2080894173 - NamedType 1870737796" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invalid Response</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CWC Time Management - Method ProcessJson - NamedType ProcessJson_Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1082305923 - Method 2080894173 - NamedType 2508434413" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Could not find a token with key %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CWC Time Management - Method ProcessJson - NamedType ProcessJson_Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1082305923 - Method 2080894173 - NamedType 3146131030" size-unit="char" translate="yes" xml:space="preserve">
+          <source>project_id 0 is invalid</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CWC Time Management - Method ProcessJson - NamedType ProcessJson_Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1082305923 - Method 2080894173 - NamedType 1710102759" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is no Job Task with project id = %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CWC Time Management - Method ProcessJson - NamedType ProcessJson_Text04</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1082305923 - NamedType 1592812855" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created Webshop Request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CWC Time Management - NamedType RequestCreatedLogTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1082305923 - NamedType 2003846220" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Received Webshop Response</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CWC Time Management - NamedType ResponseReceivedLogTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1082305923 - NamedType 3395338406" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sending Webshop Request Failed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CWC Time Management - NamedType SendRequestFailedLogTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1082305923 - NamedType 2677532717" size-unit="char" translate="yes" xml:space="preserve">
+          <source>An error occured during event: %1</source>
+          <note from="Developer" annotates="general" priority="2">%1 Event Description</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CWC Time Management - NamedType ErrorNotifyTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 278399598 - Method 2451866213 - NamedType 177522131" size-unit="char" translate="yes" xml:space="preserve">
+          <source>See log for more information.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit EventLogMgt_bbs - Method ErrorNotify - NamedType MsgLogInformationTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 278399598 - Method 455269300 - NamedType 678210408" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No log present.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit EventLogMgt_bbs - Method OpenLog - NamedType MsgNoLogTxt</note>
+        </trans-unit>
+        <trans-unit id="Page 2729687115 - Control 883711285 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CWC Time Registration List - Control Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2729687115 - Control 3641927271 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CWC Time Registration List - Control ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2729687115 - Control 3192175264 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CWC Time Registration List - Control Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2729687115 - Control 1513204408 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CWC Time Registration List - Control day - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2729687115 - Action 1635322986 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CWC Time Registration List - Action Import Hours - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2045606378 - Action 1402251088 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View Content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EventLogList_bbs - Action ViewContent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 604142323 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ClockWise - Import Hours</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CWC Import Hours - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 604142323 - Control 3679062379 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Template</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CWC Import Hours - Control Journal Template - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 604142323 - Control 3679062379 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CWC Import Hours - Control Journal Template - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 604142323 - Control 3988549303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Batch</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CWC Import Hours - Control Journal Batch - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 604142323 - Control 3988549303 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CWC Import Hours - Control Journal Batch - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 604142323 - Control 3988549303 - Method 2699620902 - NamedType 2300513536" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please Specify Journal Template</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CWC Import Hours - Control Journal Batch - Method OnAssistEdit - NamedType JournalBatchOnAssistEdit_Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 604142323 - Control 912261439 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CWC Import Hours - Control Period - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 604142323 - Control 912261439 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Day,Week,Month,Year,Date Range</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CWC Import Hours - Control Period - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 604142323 - Control 652674172 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CWC Import Hours - Control DayDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 604142323 - Control 652674172 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CWC Import Hours - Control DayDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 604142323 - Control 1302976751 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Week</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CWC Import Hours - Control WeekNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 604142323 - Control 1302976751 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CWC Import Hours - Control WeekNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 604142323 - Control 1191828235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Month</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CWC Import Hours - Control MonthNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 604142323 - Control 1191828235 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CWC Import Hours - Control MonthNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 604142323 - Control 2581694298 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Year</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CWC Import Hours - Control YearNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 604142323 - Control 2581694298 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CWC Import Hours - Control YearNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 604142323 - Control 3605153064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CWC Import Hours - Control StartDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 604142323 - Control 3605153064 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CWC Import Hours - Control StartDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 604142323 - Control 845401037 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CWC Import Hours - Control EndDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 604142323 - Control 845401037 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CWC Import Hours - Control EndDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 604142323 - Method 1544076788 - NamedType 2006935830" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please specify start date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CWC Import Hours - Method OnPreReport - NamedType SetDateRange_Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 604142323 - Method 1544076788 - NamedType 93845979" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please specify end date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CWC Import Hours - Method OnPreReport - NamedType SetDateRange_Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 604142323 - Method 1544076788 - NamedType 731542596" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please specify a date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CWC Import Hours - Method OnPreReport - NamedType SetDateRange_Text003</note>
+        </trans-unit>
+        <trans-unit id="Report 604142323 - Method 1544076788 - NamedType 3113420041" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please specify year and week no.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CWC Import Hours - Method OnPreReport - NamedType SetDateRange_Text004</note>
+        </trans-unit>
+        <trans-unit id="Report 604142323 - Method 1544076788 - NamedType 3751116658" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please specify year and month</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CWC Import Hours - Method OnPreReport - NamedType SetDateRange_Text005</note>
+        </trans-unit>
+        <trans-unit id="Report 604142323 - Method 1544076788 - NamedType 1838026807" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please specify a year</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CWC Import Hours - Method OnPreReport - NamedType SetDateRange_Text006</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3003177320 - Action 3726993836 - Method 1377591017 - NamedType 4176422061" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2077750279">
+          <source>There are not records</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Job Task Lines Subform ext - Action Event Log - Method OnAction - NamedType EventLog_Text001</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4201408279 - Action 2159243588 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3469146285">
+          <source>CWC Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Company Information CWC Ext - Action CWC Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3189251009 - Action 872478604 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1703860994">
+          <source>Get Hour From Clockwise</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Job Journal ext - Action Get Hour From Clockwise - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4257962312 - Field 2514433183 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 348912950">
+          <source>salary_number - Clockwise</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Resource_Ext - Field salary_number - Clockwise - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1692350712 - Field 1527563463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2014770230">
+          <source>External Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension JobTask_Ext - Field External Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1525460163 - Field 966740350 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2818324089">
+          <source>Payment Terms Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Job_Ext - Field Payment Terms Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1525460163 - Field 483027328 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2818324089">
+          <source>Invoice Period</source>
+          <target>Factuurperiode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Job_Ext - Field Invoice Period - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 321239302 - EnumValue 2049086889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Table Event Type - EnumValue Insert - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 321239302 - EnumValue 3817527484 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Modify</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Table Event Type - EnumValue Modify - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 321239302 - EnumValue 2477294019 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Table Event Type - EnumValue Delete - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 321239302 - EnumValue 3351914939 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Table Event Type - EnumValue Request - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2208576252 - EnumValue 3481143665 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pending</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Table Event Integration Status - EnumValue Pending - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2208576252 - EnumValue 2561328176 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sent</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Table Event Integration Status - EnumValue Sent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2208576252 - EnumValue 2248886284 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Table Event Integration Status - EnumValue Error - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

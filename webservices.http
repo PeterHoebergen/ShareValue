@@ -1,0 +1,105 @@
+##Authentication: API:2QB88sHy -> Base64 QVBJOjJRQjg4c0h5
+##SUPPORTBRITEBLUE / TenToMer123!
+
+### CONNECTION ###
+
+### Test Connection
+GET https://sharevaluetest.clockwise.info/api/v2/doc HTTP/1.1
+Accept: text/html
+Authorization: Basic QVBJOjJRQjg4c0h5
+
+### Get Token
+POST https://sharevaluetest.clockwise.info/api/v2/token HTTP/1.1
+Accept: application/json
+Content-Type: application/json
+
+{
+    
+    "grant_type": "client_credentials",
+    "client_id": "y8gdbPB9QZijEuTJ",
+    "client_secret": "g2OTsP085XWdAqHF"
+}
+
+### HOURS ###
+
+### Get Hours Flat
+GET https://sharevaluetest.clockwise.info/api/v2/report/flat/hours?fields=defaultfields,projectfields,employeefields,salesfields,hourstatusfields,otherfields&limit=10&start=2020-12-28 HTTP/1.1
+Accept: application/json
+Authorization: Bearer lA8Xw1gU8ZsXnaAF3B4IVfbz
+
+### Get Hours Flat from date
+GET https://sharevaluetest.clockwise.info/api/v2/report/flat/hours?start=2020-12-28
+Accept: application/json
+Authorization: Bearer IDdNqTtzZDrdOZcD6zz6tgGQ
+
+### PROJECT ###
+
+### Get Job
+GET https://sharevaluetest.clockwise.info/api/v2/project/6772 HTTP/1.1
+Accept: application/json
+Authorization: Bearer IDdNqTtzZDrdOZcD6zz6tgGQ
+
+### Create Job
+POST https://sharevaluetest.clockwise.info/api/v2/project HTTP/1.1
+Accept: application/json
+Authorization: Bearer wbC1scIaJLzXnFKpc1IOgkcA
+Content-Type: application/json
+
+{
+    "parent" : "6772",
+    "project_code" : "P0TEST",
+    "name" : "P0TEST",
+    "reference_number" : "REFENTIE"
+}
+
+### Authenticate
+POST https://sharevaluetest.clockwise.info/api/v2/token HTTP/1.1
+Accept: application/json
+Content-Type: application/json
+
+{
+    "grant_type": "password",
+    "username": "API",
+    "password": "2QB88sHy",
+    "client_id": "fCEW1y0brDiSzsFe"
+}
+
+### Authenticate PROD
+POST https://sharevalue.clockwise.info/api/v2/token HTTP/1.1
+Accept: application/json
+Content-Type: application/json
+
+{
+    "grant_type": "password",
+    "username": "API",
+    "password": "2QB88sHy",
+    "client_id": "zJKpw4TmMtjbeOsr"
+}
+
+### Get Token
+POST https://sharevaluetest.clockwise.info/api/v2/token
+Accept: application/json
+Content-Type: application/json
+
+{
+      "grant_type" : "refresh_token",
+      "client_id" : "API",
+      "client_secret" : "2QB88sHy",
+      "refresh_token" : "KpgwTUcVWo2OK5BrbP4fNDZI"
+}
+
+### Get Token
+POST https://sharevaluetest.clockwise.info/api/v2/token HTTP/1.1
+Accept: application/json
+Content-Type: application/json
+Authorization: Basic QVBJOjJRQjg4c0h5
+
+{
+    "grant_type": "client_credentials",
+    "client_id": "fCEW1y0brDiSzsFe",
+    "client_secret": "QWV9zHpGKnYr6bdh"
+}
+
+###
+UpdateOrderStatusToCompleted
+### RESOURCE ###

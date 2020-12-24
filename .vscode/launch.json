@@ -1,0 +1,47 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "al",
+      "request": "launch",
+      "name": "Publish",
+      "server": "https://st-116361.dynamicstocloud.com/",
+      "serverInstance": "ST-116361",
+      "tenant": "t1004696",
+      "port": 1124,
+      "authentication": "UserPassword"
+    },
+    {
+      "type": "al",
+      "request": "launch",
+      "name": "Sharevalue Test",
+      "server": "https://SF-109461-2.dynamicstocloud.com/",
+      "serverInstance": "DevelopmentExt",
+      "tenant": "t1006333",
+      "port": 1124,
+      "authentication": "UserPassword",
+      "startupObjectId": 22,
+      "startupObjectType": "Page",
+      "breakOnError": true,
+      "launchBrowser": false,
+      "enableLongRunningSqlStatements": true,
+      "enableSqlInformationDebugger": true,
+    },
+    {
+      "type": "al",
+      "request": "launch",
+      "name": "Sharevalue Productie",
+      "server": "https://SF-109461-2.dynamicstocloud.com/",
+      "serverInstance": "DevelopmentExt",
+      "tenant": "t1004696",
+      "port": 1124,
+      "authentication": "UserPassword",
+      "startupObjectId": 22,
+      "startupObjectType": "Page",
+      "breakOnError": true,
+      "launchBrowser": false,
+      "enableLongRunningSqlStatements": true,
+      "enableSqlInformationDebugger": true,
+    }
+  ]
+}

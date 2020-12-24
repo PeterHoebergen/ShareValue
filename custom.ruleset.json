@@ -1,0 +1,36 @@
+{
+    "name": "Custom Ruleset",
+    "description": "My Custom Ruleset",
+    "rules": [
+        {
+            "id": "AA0214",
+            "action": "None",
+            "justification": "Justification"
+        },
+        {
+            "id": "AA0215",
+            "action": "None",
+            "justification": "Justification"
+        },
+        {
+            "id": "AA0218",
+            "action": "None",
+            "justification": "Justification"
+        },
+        {
+            "id": "AA0072",
+            "action": "None",
+            "justification": "Justification"
+        },
+        {
+            "id": "AA0217",
+            "action": "None",
+            "justification": "Justification"
+        },
+        {
+            "id": "AA0073",
+            "action": "None",
+            "justification": "Justification"
+        }
+    ]
+}
