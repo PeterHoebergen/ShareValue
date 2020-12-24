@@ -5,7 +5,6 @@ xmlport 50000 ExportHoursToExact
     Encoding = UTF8;
     DefaultNamespace = 'http://www.w3.org/2001/XMLSchema-instance xsi:noNamespaceSchemaLocation=eExact-XML.xsd';
     UseDefaultNamespace = true;
-
     schema
     {
         textelement(eExact)
@@ -14,6 +13,7 @@ xmlport 50000 ExportHoursToExact
             {
                 tableelement(TimeTransaction; "Job Planning Line")
                 {
+                    SourceTableView = where("DateTime Exported to Exact" = filter(= 0DT), "line type" = filter(<> 0));
                     textattribute(Status)
                     {
                         trigger OnBeforePassVariable()
@@ -66,10 +66,17 @@ xmlport 50000 ExportHoursToExact
                             Quantity := Format(TimeTransaction.Quantity, 0, 9);
                         end;
                     }
+                    trigger OnAfterGetRecord()
+                    begin
+                        JobPlanningLine.get(TimeTransaction."Job No.", TimeTransaction."Job Task No.", TimeTransaction."Line No.");
+                        JobPlanningLine."DateTime Exported to Exact" := CurrentDateTime;
+                        JobPlanningLine.Modify();
+                    end;
                 }
             }
         }
     }
+
     requestpage
     {
         layout
@@ -97,5 +104,7 @@ xmlport 50000 ExportHoursToExact
             }
         }
     }
+    var
+        JobPlanningLine: Record "Job Planning Line";
 
 }
