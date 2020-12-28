@@ -24,11 +24,11 @@ xmlport 50000 ExportHoursToExact
                     textelement(Account)
                     {
                         textattribute(code)
-                        {
-                            trigger OnBeforePassVariable()
-                            begin
-                                code := '1659';
-                            end;
+                        {                            
+                           trigger OnBeforePassVariable()
+                           begin
+                               code := JobHeader."Bill-to Customer No.";
+                           end;
                         }
                     }
                     textelement(Date)
@@ -40,13 +40,20 @@ xmlport 50000 ExportHoursToExact
                     }
                     textelement(Employee)
                     {
-                        fieldattribute(EmployeeHID; TimeTransaction."No.")
+                        textattribute(EmployeeHID)
                         {
+                            trigger OnBeforePassVariable()
+                            begin
+                                if Evaluate(EmployeeDec,TimeTransaction."No.") then
+                                    EmployeeHID := format(EmployeeDec)
+                                else
+                                  EmployeeHID := TimeTransaction."No.";
+                            end;
                         }
                     }
                     textelement(Item)
                     {
-                        fieldattribute("code"; TimeTransaction."Gen. Prod. Posting Group")
+                        fieldattribute(code; TimeTransaction."Gen. Prod. Posting Group")
                         {
                         }
                     }
@@ -55,12 +62,12 @@ xmlport 50000 ExportHoursToExact
                     }
                     textelement(Project)
                     {
-                        fieldattribute("code"; TimeTransaction."Job No.")
+                        fieldattribute(code; TimeTransaction.Description)
                         {
                         }
                     }
-                    textelement(Quantity)
-                    {
+                    textelement(Quantity) 
+                    {          
                         trigger OnBeforePassVariable()
                         begin
                             Quantity := Format(TimeTransaction.Quantity, 0, 9);
@@ -68,9 +75,16 @@ xmlport 50000 ExportHoursToExact
                     }
                     trigger OnAfterGetRecord()
                     begin
+                        TimeTransaction.Description := TimeTransaction."Job No." + '-' + TimeTransaction."Job Task No.";
                         JobPlanningLine.get(TimeTransaction."Job No.", TimeTransaction."Job Task No.", TimeTransaction."Line No.");
                         JobPlanningLine."DateTime Exported to Exact" := CurrentDateTime;
                         JobPlanningLine.Modify();
+                        JobHeader.get(TimeTransaction."Job No.");
+                        if TimeTransaction."Gen. Prod. Posting Group" <> '' then
+                        begin
+                            if GenProdPostGroup.get(TimeTransaction."Gen. Prod. Posting Group") then
+                                TimeTransaction."Gen. Prod. Posting Group" := GenProdPostGroup."Exact Item Code";
+                        end;
                     end;
                 }
             }
@@ -106,5 +120,8 @@ xmlport 50000 ExportHoursToExact
     }
     var
         JobPlanningLine: Record "Job Planning Line";
+        JobHeader: Record Job;
+        EmployeeDec: Decimal;
+        GenProdPostGroup: Record "Gen. Product Posting Group";
 
 }
